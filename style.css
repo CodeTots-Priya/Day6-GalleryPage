@@ -94,3 +94,33 @@ a {
 .item:hover img {
   opacity: 0.2;
 }
+
+.gallery {
+  display: flex;
+}
+
+.galleyitem {
+  background-color: whitesmoke;
+  width: 340;
+  height: 400;
+  margin: 50;
+  text-align: center;
+}
+
+.polaroid {
+  margin: 20;
+}
+.caption {
+  font-family: "Brush Script MT", cursive;
+  font-size: 20px;
+  color: orangered;
+}
+
+.galleyitem2 {
+  background-color: whitesmoke;
+  width: 340;
+  height: 400;
+  margin: 50;
+  text-align: center;
+  margin-top: 220;
+}
